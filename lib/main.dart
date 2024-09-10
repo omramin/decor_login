@@ -38,7 +38,7 @@ void main() {
           ),
         ),
       ),
-      home: const SignUp(),
+      home: const SignInScreen(),
     ),
   );
 }
